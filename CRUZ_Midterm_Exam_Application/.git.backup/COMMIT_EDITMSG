@@ -1,0 +1,21 @@
+second commit create Product Controller
+
+# Conflicts:
+#	app/Http/Controllers/ProductController.php
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# interactive rebase in progress; onto f0e7f54
+# Last commands done (2 commands done):
+#    pick 71240ea # initial commit create project
+#    pick effe44f # second commit create Product Controller
+# Next commands to do (2 remaining commands):
+#    pick d451eb6 # last commit addes blade.php
+#    pick b3acbed # changes
+# You are currently rebasing branch 'main' on 'f0e7f54'.
+#
+# Changes to be committed:
+#	modified:   app/Http/Controllers/ProductController.php
+#	new file:   resources/views/products.blade.php
+#

@@ -1,0 +1,3 @@
+pick 71240eae89f82df03a22a96f8a2dbe37c179c533 # initial commit create project
+pick effe44fd7c95217ee3aefb1ffe38e4483aefde97 # second commit create Product Controller
+pick d451eb6ecf5017380d5c4c78fdb10484becbf3b0 # last commit addes blade.php
